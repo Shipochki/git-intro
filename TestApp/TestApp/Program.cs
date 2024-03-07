@@ -4,7 +4,9 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World from Alex!");
+			GreetingMessage("Hello, World from Alex!");
 		}
+
+		static string GreetingMessage(string message) => message;
 	}
 }
