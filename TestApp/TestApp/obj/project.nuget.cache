@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jStOtkg3Jx5AV6A36ziYoj3SkdcmK4RU/BtCg2eeJ4DCJv54zYP3Hr/9nfFkcZC0f6MbyxWRY2AvRk0wVRl9QQ==",
+  "dgSpecHash": "8OWiRykX2kZVfc30JdDbsUT0KmkRCa7DvlvJvK5MS4F7U5IIYPEyFzLAgBzEkbA9OY2ror1z+DxhdesQVOqvow==",
   "success": true,
-  "projectFilePath": "D:\\AmdarisTests\\git-intro-test\\git-intro\\TestApp\\TestApp\\TestApp.csproj",
+  "projectFilePath": "D:\\AmdarisTests\\git-intro-test\\git-intro-conflicts\\Alex's repo\\git-intro\\TestApp\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
